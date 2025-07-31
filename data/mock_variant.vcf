@@ -1,0 +1,4 @@
+##fileformat=VCFv4.2
+##INFO=<ID=ACMG_CLASS,Number=1,Type=String,Description="ACMG classification">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+2	86523147	.	C	-	.	PASS	ACMG_CLASS=Likely_pathogenic
